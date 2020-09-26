@@ -1,0 +1,63 @@
+jndcinsdjdk
+ionic integrations enable capacitor
+npx cap init
+ionic build
+npx cap add android
+npx cap open android
+git init
+git add .
+git commit -m "set up repo"
+git push
+git remote add origin https://github.com/Nouman864/Angular.git
+heroku logs -a mybookyapp --tail
+ rahuljograna007@gmail.com
+ionic cordova plugin add phonegap-plugin-barcodescanner
+
+Usman Sarwar 3342-FBAS/BSSE/F16
+<plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
+npm install ionic cordova
+ionic cordova plattform add andrioid
+ionic cordo build android
+cd "c:\Users"
+anular 10,
+ionic 6
+nodemondel
+platform 
+
+
+"https://res.cloudinary.com/dy4zcpbe6/image/upload/v1599289199/dvixtqneywr9z8migvto.jpg"
+"https://res.cloudinary.com/dy4zcpbe6/image/upload/v1599289201/wfeqgejotlveviraelgn.jpg"
+
+
+Stripe: ••••••••
+run android
+
+
+
+
+Having a job doesn’t make you secure.
+Valuable skills will.
+
+A degree doesn’t make you smart.
+Self-education and continuous learning does.
+
+A title doesn’t make you a leader.
+Empowering & developing others does.
+
+heroku pass:iLMTTvi_b@_2bnB
+
+
+mongodb://localhost:27017/mydb
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote set-url origin https://github.com/Nouman864/Node.git
+git push -u origin master
+
+
+
+
+@#4R@_zRG.Zz9s9
